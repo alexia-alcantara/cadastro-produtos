@@ -1,24 +1,34 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
-    },
-    {
-      "id": 2,
       "name": "Notebook Dell",
-      "price": 1200.89
+      "price": "1577.99",
+      "id": 1
     },
     {
-      "id": 3,
-      "name": "TV Smarth 32 Polegadas",
-      "price": 1500.89
+      "name": "Cama Box ",
+      "price": "1500.00",
+      "id": 2
     },
     {
-      "name": "Sofá",
-      "price": "950",
+      "name": "TV Smart",
+      "price": "1200.50",
+      "id": 3
+    },
+    {
+      "name": "Geladeira",
+      "price": "989.90",
       "id": 4
+    },
+    {
+      "name": "Sofá ",
+      "price": "560.98",
+      "id": 5
+    },
+    {
+      "name": "produto de teste",
+      "price": "178",
+      "id": 6
     }
   ]
 }
